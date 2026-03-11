@@ -1,6 +1,7 @@
-# 🥕 Karrot Market 미국 현지화 전략 프로젝트
+# 🥕 Karrot Market 미국 현지화 전략 프로젝트 📄 Final Report  
+[View Final Report](report/final_report.pdf)
 
-본 프로젝트는 지역 기반 중고거래 플랫폼 **Karrot Market(당근마켓)**의 글로벌 확장 전략을 분석하고, 미국 시장 진출을 위한 **현지화 전략(Localization Strategy)**을 제안한 팀 프로젝트입니다.
+본 프로젝트는 지역 기반 중고거래 플랫폼 **Karrot Market(당근마켓)** 의 글로벌 확장 전략을 분석하고, 미국 시장 진출을 위한 **현지화 전략(Localization Strategy)** 을 제안한 팀 프로젝트입니다.
 
 특히 기존 진출 지역인 **뉴욕·뉴저지·시카고**에 이어 **캘리포니아 시장 확장 전략**을 중심으로 경쟁 플랫폼 분석, 법적 규제 조사, 서비스 기능 기획 등을 수행했습니다.
 
